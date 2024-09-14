@@ -4,13 +4,13 @@ I'm an Australian living in the south of Mexico.
 
 My first language is English, I'm fluent in Spanish, and I can communicate quite well in Chinese (简体字).
 
-I have a varied background; see
+I have a varied background; see my 
 <a href="https://www.linkedin.com/in/skjdaniel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
 
----
+
 ### Languages and tools
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" **alt="PyTorch" style="width:50px;height:50px;"/>&nbsp;
