@@ -1,14 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Simon
 
-<div id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+I'm an Australian living in the south of Mexico.
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/skjdaniel/">
+My first language is English, I'm fluent in Spanish, and I can communicate quite well in Chinese (简体字).
+
+I have a varied background; see
+<a href="https://www.linkedin.com/in/skjdaniel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+
 
 ---
 ### Languages and tools
